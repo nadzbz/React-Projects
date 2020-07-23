@@ -1,3 +1,3 @@
 # React-Projects
 Created with CodeSandbox
-#Day 01 - Components
+# Day 01 - Components
