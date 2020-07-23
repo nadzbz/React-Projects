@@ -1,7 +1,7 @@
 {
-  "name": "react-07-23-20-beginner",
+  "name": "react-projects-sandbox",
   "version": "1.0.0",
-  "description": "Beginning React Development",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
